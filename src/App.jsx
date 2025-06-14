@@ -89,6 +89,7 @@ const App = () => {
       )}
 
       {step === 3 && <Quiz />}
+      
     </div>
   );
 };
